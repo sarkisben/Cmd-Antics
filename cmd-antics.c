@@ -69,8 +69,8 @@ int main(int argc, char *argv[]){
 	while(1){
 		int r = 0;
 		int c = 0;
-		printf("===== Mid-Day Commander, v0 =====\n");
-		printf("G'day, Commander! What command would you like to run?\n");
+		printf("===== Command Antics =====\n");
+		printf("What command would you like to run?\n");
 		printf("	0. whoami   : Prints out the result of the whoami command\n");
 		printf("	1. last   : Prints out the result of the last command\n");
 		printf("	2. ls   : Prints out the result of the ls command\n");
