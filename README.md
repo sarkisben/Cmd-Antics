@@ -5,6 +5,7 @@ This is Project One for CS3013: operating Systems.
 
 This program is based off the typical three state scaffolding used for the forking processes, one for the error, one for the parent process, and one for the child process.
 
+Run this program by first typing "make" in the command line.  Then run the object file by typing "./cmd"
 We began our implementation by creating a user prompt that told the user to enter one of three commands:
    0 -> Prints out the result of the whoami command
    1 -> Prints out the result of the last command
